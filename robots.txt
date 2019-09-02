@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ivaefoosh.polychromica.com/sitemap.xml
